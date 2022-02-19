@@ -27,7 +27,11 @@ Integrate Paypal API
 
 ### Dependencies
 
-* css bootstrap
+* Django
+* CSS bootstrap
+* PayPal APL
+* CSFR token
+* Cookies
 
 ### Installing
 
