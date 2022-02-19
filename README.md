@@ -12,7 +12,7 @@ Store page
 Cart page
 ![plot](./cart.png)
 
-Users login checkout page
+Users login checkout page  
 Hide user basic information that users don't input their information again.
 ![plot](./login_checkout.png)
 
