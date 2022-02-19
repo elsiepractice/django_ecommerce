@@ -47,7 +47,7 @@ Integrate Paypal API
     $ python3 -m venv venv 
     $ source venv/bin/activate 
     $ python manage.py runserver
-    python manage.py createsuperuser
+    $ python manage.py createsuperuser
 
 ```
 
